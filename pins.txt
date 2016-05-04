@@ -1,0 +1,23 @@
+DIGITAL
+0,1	serial to graphics AVR
+2	unused
+3	unused
+4	unused
+5	unused
+6	unused
+7	unused
+8	unused
+9	unused
+10	unused
+11	unused
+12	unused
+13	status LED
+
+ANALOG
+A1	unused
+A2	unused
+A3	unused
+A4	unused
+A5	unused
+A6
+A7
