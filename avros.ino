@@ -33,4 +33,3 @@ void loop(){
 void append(String addition){//append string to console, let graphics sketch do the rest
   Serial.writeln(addition);
 }
-}
